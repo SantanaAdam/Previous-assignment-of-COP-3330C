@@ -1,4 +1,17 @@
-Name: Adam k. Santana
-Course: 202610-COP-3330C-16376
-CRN: 16376
-This project demonstrates how Java Generics work by creating reusable and type-safe code that can handle different data types. The program includes a generic utility method and a generic container class that allow items to be added, removed, searched, sorted, and displayed without duplicating code. It uses core programming concepts such as object-oriented programming, Java’s Collections Framework, and comparators for sorting. All data is predefined in the program, and the results are printed to the console, showing that the generic classes and methods function correctly with multiple object types.
+# Module 6 Generics Project
+
+**Student:** Adam Santana  
+**Course:** COP-3330C-16376  
+**Assignment:** Module 6 Generics Project
+
+This repository contains the Java source code for the Module 6 Generics project.
+
+## Source Code
+
+The Java application is located in:
+
+`src/GenericDemoApp.java`
+
+## GitHub Submission
+
+The project is stored as individual source files so the Java code can be viewed directly in GitHub rather than only as a ZIP archive.
